@@ -1,8 +1,19 @@
 # sbc-dev
 
-## Requirement 1:  
+## Requirement 1:  Instal M2 Card and Expand the Storage
+
 Single Board Computer - SBC X86, ARM  
+## Empty Card
+![alt text](odroid-h3-plus/M-2-Card.png)
+## Card with Installed SSD Expended Storage
+![alt text](odroid-h3-plus/M-2-Card-with-Installed-SSDS.png)
+
+### After installing M2 Card on SBC
+![alt text](image.png)
+
+More Information can be found on Below link
 [Instal M2 Card and Expand the Storage](odroid-h3-plus/readme.md)  
+
 
 
 ## Requirement 2: Evaluate Lenova Laptop to check if meets Spoorthi requirements
