@@ -7,7 +7,7 @@ It comes with only one SSD. Now
 Now odroid-h3 plus will come only with only one SSD Card. now they have given option one SSD into dual SSD for which they provided instructions at below page.
 
 https://www.hardkernel.com/shop/m-2-2x2-card/
-![alt text](M.2 2×2 card.png)
+![alt text](M-2-Card.png)
 
 using the above card, once can expand the storage. 
 
