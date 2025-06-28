@@ -1,14 +1,14 @@
 # sbc-dev
 
-#Requirement 1:  
+## Requirement 1:  
 Single Board Computer - SBC X86, ARM  
 [Instal M2 Card and Expand the Storage](odroid-h3-plus/readme.md)  
 
 
-Requirement 2: Evaluate Lenova Laptop to check if meets Spoorthi requirements
+## Requirement 2: Evaluate Lenova Laptop to check if meets Spoorthi requirements
  Install Engineering Tools that are required to test and verify if the Laptop is suffice to work with all the required engineering tools.
 
-Request 3: Connect Rasberrypi on Ipad- new and old ipads.
+## Request 3: Connect Rasberrypi on Ipad- new and old ipads.
 
 New IPad as USB C and old Ipads has Apple Lightenting Port.
 
