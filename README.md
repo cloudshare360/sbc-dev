@@ -9,7 +9,7 @@ Single Board Computer - SBC X86, ARM
 ![alt text](odroid-h3-plus/M-2-Card-with-Installed-SSDS.png)
 
 ### After installing M2 Card on SBC
-![alt text](image.png)
+![alt text](odroid-h3-plus/M-2-Card-with-Installed-SSDS.png)
 
 More Information can be found on Below link
 [Instal M2 Card and Expand the Storage](odroid-h3-plus/readme.md)  
